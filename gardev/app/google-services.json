@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569290347786",
+    "project_id": "gardev-3c674",
+    "storage_bucket": "gardev-3c674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569290347786:android:ef700a978d76d9a020d6f3",
+        "android_client_info": {
+          "package_name": "com.medis.gardev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569290347786-9ipi6e12engofopdl79rqoa2cmgk8sho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medis.gardev",
+            "certificate_hash": "16e51deda38df87ecd9dacfab83f62a059aa33b4"
+          }
+        },
+        {
+          "client_id": "569290347786-1ddootf22v0m7p1luv5230iems6v0sed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnG-8saVHyBAVMxDBhr5HYtFNBrPdDow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569290347786-1ddootf22v0m7p1luv5230iems6v0sed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

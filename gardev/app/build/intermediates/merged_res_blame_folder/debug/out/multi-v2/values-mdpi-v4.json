@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/medis/Kotlin/gardev/gardev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/medis/Kotlin/gardev/gardev/app/src/main/res/values-mdpi/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}

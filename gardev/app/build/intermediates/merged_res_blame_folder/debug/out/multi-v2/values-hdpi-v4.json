@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/medis/Kotlin/gardev/gardev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/medis/Kotlin/gardev/gardev/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                },
+                {
+                    "source": "/home/medis/.gradle/caches/transforms-2/files-2.1/57701368c947d3281d2bb29a50ea161d/appcompat-1.3.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        }
+    ]
+}
