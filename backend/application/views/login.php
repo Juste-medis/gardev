@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
       <div class="login-panel panel panel-default">
-        <div class="panel-heading text-center">Log in</div>
+        <div class="panel-heading text-center">Log inl<?php echo base_url();?>kl</div>
         <div class="panel-body">
           <form role="form" >
             <fieldset>
